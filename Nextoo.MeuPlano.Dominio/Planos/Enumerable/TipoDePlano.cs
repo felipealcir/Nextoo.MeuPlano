@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Wooza.MeuPlano.Dominio.Planos.Enumerable
+namespace Nextoo.MeuPlano.Dominio.Planos.Enumerable
 {
     public enum TipoDePlano
     {

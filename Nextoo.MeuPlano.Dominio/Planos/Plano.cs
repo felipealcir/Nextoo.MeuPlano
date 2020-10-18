@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Wooza.MeuPlano.Dominio.Planos.Enumerable;
+using Nextoo.MeuPlano.Dominio.Planos.Enumerable;
 
-namespace Wooza.MeuPlano.Dominio.Planos
+namespace Nextoo.MeuPlano.Dominio.Planos
 {
     public class Plano
     {
@@ -13,7 +13,7 @@ namespace Wooza.MeuPlano.Dominio.Planos
 
         public int FranquiaDeInternet { get; set; }
 
-        public int Valor { get; set; }
+        public double Valor { get; set; }
 
         public TipoDePlano Tipo { get; set; }
 
