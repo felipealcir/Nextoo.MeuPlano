@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4ZTMtESDTuA5gzVcyS5qvyjgFZHJARE4LZyQOPbSQstsGlnhX16l991bB6mihLpOhtD7qrj/neKGareHof7CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Nextoo\\Nextoo.MeuPlano\\Nextoo.MeuPlano.API\\Nextoo.MeuPlano.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe Ferreira\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
