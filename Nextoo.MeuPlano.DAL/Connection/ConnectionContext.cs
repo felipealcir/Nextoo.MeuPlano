@@ -28,7 +28,7 @@ namespace Nextoo.MeuPlano.DAL.Connection
                 .AddJsonFile("appsettings.json")
                 .Build();
 
-            optionsBuilder.UseSqlServer(config.GetConnectionString("DefaultConnection"));
+            optionsBuilder.UseSqlServer(config.GetConnectionString("MeuPlanoBD"));
         }
 
     }
