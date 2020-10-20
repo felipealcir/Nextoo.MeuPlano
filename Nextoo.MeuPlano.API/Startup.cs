@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Nextoo.MeuPlano.DAL.Commom.IoC;
 
 namespace Nextoo.MeuPlano.API
 {
@@ -15,13 +17,16 @@ namespace Nextoo.MeuPlano.API
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
-        {
+        {           
+
             services.AddOptions();
             services.AddMvc(options =>
                 {
                     options.OutputFormatters.Remove(new XmlDataContractSerializerOutputFormatter());
                     options.EnableEndpointRouting = false;
                 });
+
+            RegisterServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -31,6 +36,11 @@ namespace Nextoo.MeuPlano.API
                 app.UseDeveloperExceptionPage();
 
             app.UseMvc();
+        }
+
+        private static void RegisterServices(IServiceCollection services)
+        {
+            NativeInjectorBootStrapper.RegisterServices(services);
         }
     }
 }

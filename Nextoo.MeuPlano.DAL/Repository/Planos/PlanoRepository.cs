@@ -12,8 +12,10 @@ namespace Nextoo.MeuPlano.DAL.Repository.Planos
     {
         public PlanoRepository(ConnectionContext context)
             : base(context)
+
         {
 
         }
+
     }
 }

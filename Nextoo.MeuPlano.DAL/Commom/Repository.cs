@@ -11,13 +11,13 @@ namespace Nextoo.MeuPlano.DAL.Commom
 {
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
-        protected ConnectionContext Db;
+        protected ConnectionContext _context;
         protected DbSet<TEntity> DbSet;
 
         protected Repository(ConnectionContext context)
         {
-            Db = context;
-            DbSet = Db.Set<TEntity>();
+            _context = context;
+            DbSet = _context.Set<TEntity>();
         }
 
         public virtual void Adicionar(TEntity obj)
@@ -47,12 +47,12 @@ namespace Nextoo.MeuPlano.DAL.Commom
 
         public int SaveChanges()
         {
-            return Db.SaveChanges();
+            return _context.SaveChanges();
         }
 
         public void Dispose()
         {
-            Db.Dispose();
+            _context.Dispose();
         }
     }
 }

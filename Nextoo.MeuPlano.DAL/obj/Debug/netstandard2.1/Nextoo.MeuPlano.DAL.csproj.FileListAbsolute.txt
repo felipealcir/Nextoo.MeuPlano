@@ -6,7 +6,8 @@ C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\bin\Debug\netstandard2.1
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.csprojAssemblyReference.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.AssemblyInfoInputs.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.AssemblyInfo.cs
-C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.csproj.CoreCompileInputs.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.csproj.CopyComplete
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.dll
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.pdb
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\bin\Debug\netstandard2.1\appsettings.json
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.1\Nextoo.MeuPlano.DAL.csproj.CoreCompileInputs.cache

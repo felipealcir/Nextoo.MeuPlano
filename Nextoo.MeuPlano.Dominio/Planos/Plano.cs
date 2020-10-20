@@ -9,13 +9,13 @@ namespace Nextoo.MeuPlano.Dominio.Planos
     {
         public int CodigoPlano { get; set; }
 
-        public int Minutos { get; set; }
+        public decimal Minutos { get; set; }
 
-        public int FranquiaDeInternet { get; set; }
+        public decimal FranquiaDeInternet { get; set; }
 
-        public double Valor { get; set; }
+        public decimal Valor { get; set; }
 
-        public TipoDePlano Tipo { get; set; }
+        public string Tipo { get; set; }
 
         public string Operadora { get; set; }
     }

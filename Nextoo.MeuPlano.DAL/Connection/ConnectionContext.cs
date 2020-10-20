@@ -12,7 +12,7 @@ namespace Nextoo.MeuPlano.DAL.Connection
 {
     public class ConnectionContext : DbContext
     {
-        public DbSet<Plano> Eventos { get; set; }     
+        public DbSet<Plano> Planos { get; set; }     
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
