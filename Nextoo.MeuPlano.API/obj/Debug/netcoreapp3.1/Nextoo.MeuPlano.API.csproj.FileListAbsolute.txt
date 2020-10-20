@@ -7,3 +7,14 @@ C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.RazorTargetAssemblyInfo.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\staticwebassets\Nextoo.MeuPlano.API.StaticWebAssets.Manifest.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\staticwebassets\Nextoo.MeuPlano.API.StaticWebAssets.xml
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.exe
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.deps.json
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.runtimeconfig.json
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.runtimeconfig.dev.json
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.dll
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\bin\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.pdb
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.csproj.CoreCompileInputs.cache
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.dll
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.pdb
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.API\obj\Debug\netcoreapp3.1\Nextoo.MeuPlano.API.genruntimeconfig.cache

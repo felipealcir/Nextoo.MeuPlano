@@ -9,4 +9,3 @@ C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.0
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\bin\Debug\netstandard2.0\Nextoo.MeuPlano.Dominio.dll
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\bin\Debug\netstandard2.0\Nextoo.MeuPlano.Dominio.pdb
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.0\Nextoo.MeuPlano.DAL.csproj.CopyComplete
-C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.DAL\obj\Debug\netstandard2.0\Nextoo.MeuPlano.DAL.csproj.CoreCompileInputs.cache

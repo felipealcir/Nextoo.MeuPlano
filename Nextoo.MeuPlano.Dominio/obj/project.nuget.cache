@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FAoWIDQ1vQJQ9QX9tqnR8cFJSOY2uon/Fm0+YqGQIzwgjzyjZbVI/P1xskFl4vG+mrvpmmPV1ik7b0cly44RGg==",
+  "dgSpecHash": "heMvhwuQUTqK1kLZMYf8vqhvNhy4REO682eh3sXb/8Vgg0sBmZfNlreI/oYmE691XtbU59luS8FyChTkDMMvVg==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Nextoo\\Nextoo.MeuPlano\\Nextoo.MeuPlano.Dominio\\Nextoo.MeuPlano.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Felipe Ferreira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Felipe Ferreira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
