@@ -15,6 +15,9 @@ namespace Nextoo.MeuPlano.DAL.Mapping.Planos
             builder.HasKey(e => e.CodigoPlano)
                 .HasName("CodigoPlano");
 
+            builder.Property(e => e.CodigoPlano)
+                .ValueGeneratedOnAdd();
+
             builder.Property(e => e.FranquiaDeInternet)
                 .HasColumnName("FranquiaInternet")
                 .HasMaxLength(18)
@@ -34,6 +37,10 @@ namespace Nextoo.MeuPlano.DAL.Mapping.Planos
                 .HasColumnName("Tipo")
                 .HasMaxLength(50)
                 .IsRequired();
+
+            builder.Property(e => e.DDD)
+               .HasColumnName("DDD")
+               .HasMaxLength(10);                   
 
             builder.Property(e => e.Operadora)
                 .HasColumnName("Operadora")

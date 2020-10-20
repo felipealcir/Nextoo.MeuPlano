@@ -6,3 +6,4 @@ C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.Dominio\obj\Debug\netstandar
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.Dominio\obj\Debug\netstandard2.1\Nextoo.MeuPlano.Dominio.csproj.CoreCompileInputs.cache
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.Dominio\obj\Debug\netstandard2.1\Nextoo.MeuPlano.Dominio.dll
 C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.Dominio\obj\Debug\netstandard2.1\Nextoo.MeuPlano.Dominio.pdb
+C:\Workspace\Nextoo\Nextoo.MeuPlano\Nextoo.MeuPlano.Dominio\obj\Debug\netstandard2.1\Nextoo.MeuPlano.Dominio.csprojAssemblyReference.cache

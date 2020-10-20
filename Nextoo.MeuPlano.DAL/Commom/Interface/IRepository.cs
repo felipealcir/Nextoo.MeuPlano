@@ -10,7 +10,7 @@ namespace Nextoo.MeuPlano.DAL.Commom.Interface
         void Adicionar(TEntity obj);       
         IEnumerable<TEntity> BuscarTodos();
         void Atualizar(TEntity obj);
-        void Remover(Guid id);
+        void Remover(decimal id);
         IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate);       
     }
 }

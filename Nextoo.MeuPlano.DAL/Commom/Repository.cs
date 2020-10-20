@@ -23,11 +23,13 @@ namespace Nextoo.MeuPlano.DAL.Commom
         public virtual void Adicionar(TEntity obj)
         {
             DbSet.Add(obj);
+            SaveChanges();
         }
 
         public virtual void Atualizar(TEntity obj)
         {
             DbSet.Update(obj);
+            SaveChanges();
         }
 
         public virtual IEnumerable<TEntity> Buscar(Expression<Func<TEntity, bool>> predicate)
@@ -40,9 +42,10 @@ namespace Nextoo.MeuPlano.DAL.Commom
             return DbSet.ToList();
         }
 
-        public virtual void Remover(Guid id)
+        public virtual void Remover(decimal id)
         {
             DbSet.Remove(DbSet.Find(id));
+            SaveChanges();
         }
 
         public int SaveChanges()
